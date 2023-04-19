@@ -1,0 +1,16 @@
+management:
+   endpoints:
+      web:
+         exposure:
+            include: "*"
+
+
+server:
+   port: 8090
+   
+course:
+   message: "Hello World prod!"
+
+   
+
+   
